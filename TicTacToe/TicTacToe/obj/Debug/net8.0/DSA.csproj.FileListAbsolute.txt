@@ -1,0 +1,14 @@
+C:\Users\ujjaw\source\repos\DSA\DSA\bin\Debug\net8.0\DSA.exe
+C:\Users\ujjaw\source\repos\DSA\DSA\bin\Debug\net8.0\DSA.deps.json
+C:\Users\ujjaw\source\repos\DSA\DSA\bin\Debug\net8.0\DSA.runtimeconfig.json
+C:\Users\ujjaw\source\repos\DSA\DSA\bin\Debug\net8.0\DSA.dll
+C:\Users\ujjaw\source\repos\DSA\DSA\bin\Debug\net8.0\DSA.pdb
+C:\Users\ujjaw\source\repos\DSA\DSA\obj\Debug\net8.0\DSA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ujjaw\source\repos\DSA\DSA\obj\Debug\net8.0\DSA.AssemblyInfoInputs.cache
+C:\Users\ujjaw\source\repos\DSA\DSA\obj\Debug\net8.0\DSA.AssemblyInfo.cs
+C:\Users\ujjaw\source\repos\DSA\DSA\obj\Debug\net8.0\DSA.csproj.CoreCompileInputs.cache
+C:\Users\ujjaw\source\repos\DSA\DSA\obj\Debug\net8.0\DSA.dll
+C:\Users\ujjaw\source\repos\DSA\DSA\obj\Debug\net8.0\refint\DSA.dll
+C:\Users\ujjaw\source\repos\DSA\DSA\obj\Debug\net8.0\DSA.pdb
+C:\Users\ujjaw\source\repos\DSA\DSA\obj\Debug\net8.0\DSA.genruntimeconfig.cache
+C:\Users\ujjaw\source\repos\DSA\DSA\obj\Debug\net8.0\ref\DSA.dll
